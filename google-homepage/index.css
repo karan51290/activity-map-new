@@ -1,0 +1,19 @@
+img {
+
+	margin:auto;
+	position:relative;
+	display: block;
+}
+
+input	{
+
+	margin:auto;
+	position:relative;
+	display: block;
+}
+
+.button	{
+
+	display:inline-block;
+	margin: auto;
+}
